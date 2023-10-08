@@ -24,20 +24,24 @@
 *** The Images of Application are:
 
 1. The First Page (Default)
-
+![image](https://github.com/AvantiChakole2001/Project/assets/134036135/75798d49-563b-41ae-9eb7-a10a701ec4ab)
 2. Login Page
-
+![image](https://github.com/AvantiChakole2001/Project/assets/134036135/c3df1034-7607-47e9-b2f3-3eb597c6efa4)
 3. Signup Page
-
+![image](https://github.com/AvantiChakole2001/Project/assets/134036135/5250776b-dd41-4ddb-8964-91143e26924a)
 4. Dashboard
 ![image](https://github.com/AvantiChakole2001/Project/assets/134036135/52c69e01-08f4-4376-a557-30beb82de01f)
 
 5. Contact Doctors Page
+![image](https://github.com/AvantiChakole2001/Project/assets/134036135/2ff666fa-7de3-4cdd-a0d3-8845d2210fce)
 
 6. Order Medicines Page
+![image](https://github.com/AvantiChakole2001/Project/assets/134036135/c6e1387d-3725-4d05-9c8a-d21729fca7cd)
 
 7. Online Articles Page
+![image](https://github.com/AvantiChakole2001/Project/assets/134036135/605cbf48-1820-4a8b-a134-dbc7c820eb7d)
 
 8. Set Reminders Page
+![image](https://github.com/AvantiChakole2001/Project/assets/134036135/8988abcd-53ab-456d-8cc7-5a37a0467b6f)
 
 
