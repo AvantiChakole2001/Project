@@ -30,6 +30,7 @@
 3. Signup Page
 
 4. Dashboard
+![image](https://github.com/AvantiChakole2001/Project/assets/134036135/52c69e01-08f4-4376-a557-30beb82de01f)
 
 5. Contact Doctors Page
 
